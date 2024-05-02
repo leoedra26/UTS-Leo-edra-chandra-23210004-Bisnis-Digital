@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
+body, html{
+    font-family: "Noto Sans", sans-serif;
+} 
+
+body {
+    background-image: url(/img/itbss.jpg);
+    background-size: cover;
+    background-position: center center;   
+}
+
+.container {
+    max-width: 100%;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+.container-itbss {
+    margin: 0 auto;
+    padding: 0 0px;
+}
+.container-itbss img{
+width:20px;
+}
+
+.content-title {
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-size: 24px;
+    margin-top: 150px;
+    margin-bottom: 0;
+    text-shadow:  2px  2px  8px black;
+}
+
+.itbss {
+    max-width: 100%;
+}
+
+.prodi {
+    display: grid;
+    grid-template-columns: 25% 25% 25%;
+    padding: 10px;
+    text-align: center;
+    font-size: 10px;
+    margin-top: 100px;
+    justify-content: space-around;
+}
+
+.prodi-bd {
+    border: 1px solid black;
+    background: #DBA979;
+    height: 100px;
+}
+
+.prodi-sti {
+    border: 1px solid black;
+    background: #DBA979;
+    height: 100px;
+
+}
+
+.prodi-kwu {
+    border: 1px solid black;
+    background: #DBA979;
+    height: 100px;
+
+}
+
+.teks {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    margin: auto;
+}
+

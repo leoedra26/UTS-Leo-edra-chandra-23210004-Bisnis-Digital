@@ -1,0 +1,55 @@
+img {
+    width: 200px;
+}
+
+.row1 {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+
+.column1 {
+    border-right-style: solid;
+    padding: 0 300px 0 150px;
+    text-align: center;
+    border-bottom: solid;
+    border-bottom-width: 300%;
+}
+
+.column2 {
+    text-align: center;
+    padding: 0 10rem 0 165px;
+    border-bottom: solid;
+}
+
+.row2 {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+
+.column3 {
+    text-align: center ;
+    padding: 0 15rem;
+    border-right-style: solid;
+}
+
+.column4 {
+    text-align: center;
+    padding: 0 10rem;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

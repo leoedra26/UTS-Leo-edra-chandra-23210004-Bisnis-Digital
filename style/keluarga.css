@@ -1,0 +1,133 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+body, html{
+    font-family: "Noto Sans", sans-serif;
+}
+
+.img{
+    background-image: url(/img/keluarga.JPG);
+    background-size: cover;
+    background-position: center center;
+    color: #fff;
+    text-align: center;
+    align-items: center;
+    padding: 14.4%;
+}
+
+
+.family img {
+    max-width: 1300px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+.family img{
+    height:600px;
+    width: 920px;
+    padding: 20px;
+    border-radius: 10px;
+    background: white;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+.family p{
+    font-weight: bold;
+    color:rgb(0, 0, 0);
+    margin: 0px;
+}
+.family {
+    max-height: 100%;
+    max-width: 100%;
+    text-align: left;
+    display: flex;
+    justify-content: center;
+    background: #F7DCB9;
+}
+
+
+.container-family {
+    display: flex;
+    flex-direction: column;
+    
+    max-width: 80%;
+}
+
+.family-member {
+    margin: 20px;
+}
+
+.family-member img {
+    width: 200px;
+    height: 200px;
+    border-radius: 5%;
+    margin-bottom: 10px;
+}
+
+.family-member h2 {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+}
+
+.container-family p {
+    font-size: 1rem;
+    max-height: 20%;
+    max-width: 100%;
+}
+
+.keluarga {
+    display: flex;
+    justify-content: center;
+    margin-top: auto;
+}
+
+.keluarga{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.keluarga{
+    display: flex;
+}
+
+.keluarga h4 .p{
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
+
+.nama {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 20%;
+    border-right-style: solid;
+}
+
+.ayah {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 20%;
+    border-right-style: solid;
+}
+
+.ibu {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 20%;
+    border-right-style: solid;
+}
+
+.abang {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 20%;
+    border-right-style: solid;
+}

@@ -1,0 +1,73 @@
+.profilpribadi{
+    display: flex;
+    justify-content: center;
+    margin-top: 3%;
+}
+
+img{
+    display: flex;
+    align-items: center;
+    border-radius: 50%;
+    height: 25%;
+    width: 15%;
+}
+
+.datadiri{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.data{
+    display: flex;
+}
+
+.data h4, p{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.nama{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 20%;
+    border-right-style: solid;
+}
+
+.umur{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 20%;
+    border-right-style: solid;
+}
+
+.lahir{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 20%;
+    border-right-style: solid;
+}
+
+.hobi{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 20%;
+    border-right-style: solid;
+}
+
+.makanan{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 20%;
+}
+
